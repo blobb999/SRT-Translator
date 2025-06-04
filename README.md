@@ -2,6 +2,7 @@
 # SRT Translator
 
 A Python GUI tool to translate `.srt` subtitle files into any language using Google Translate.
+![SRT Translator Screenshot](SRT-Translator.png)
 
 ## Features
 - 📁 Load `.srt` files easily via file browser.
